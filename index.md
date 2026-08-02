@@ -8,7 +8,7 @@ description: Installation, setup, customization, and support documentation for V
 
 Vellum is a warm, editorial Shopify theme designed for independent bookshops, publishers, and literary brands. This guide covers installation, store setup, customization, product enrichment, and ongoing maintenance.
 
-> **Theme version:** 1.0.0  
+> **Theme version:** 1.0.1  
 > **Platform:** Shopify Online Store 2.0  
 > **Support:** [murungi.mutugi@gmail.com](mailto:murungi.mutugi@gmail.com)
 
@@ -303,14 +303,14 @@ Vellum includes keyboard focus treatments, semantic landmarks, accessible disclo
 
 ## Demo catalogue
 
-The theme package includes `demo/demo-products.csv`, an optional fictional catalogue of 21 books and 43 format variants. It is intended for theme demonstration and does not include cover images.
+The project includes `demo/demo-products.csv`, an optional fictional catalogue of 21 books and 43 format variants. It includes public URLs for original, rights-cleared typographic cover artwork hosted with this documentation.
 
 To use it:
 
 1. In Shopify admin, go to **Products → Import**.
 2. Upload `demo-products.csv` and import the products.
 3. Create automated collections for the included genre tags: Classics, Contemporary, Science Fiction, Romance, Thriller, Biography, History, Philosophy, and Art & Design.
-4. Add licensed or original cover images.
+4. Confirm that Shopify imported the hosted cover images, or replace them with artwork you are licensed to distribute.
 5. Connect the collections and a featured product in the theme editor.
 
 Do not import demo content into a production catalogue without reviewing it first.
