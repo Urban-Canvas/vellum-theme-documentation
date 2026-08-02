@@ -10,7 +10,7 @@ Vellum is a warm, editorial Shopify theme designed for independent bookshops, pu
 
 > **Theme version:** 1.0.1  
 > **Platform:** Shopify Online Store 2.0  
-> **Support:** [murungi.mutugi@gmail.com](mailto:murungi.mutugi@gmail.com)
+> **Support:** [Submit a Vellum support request](https://urban-canvas.github.io/vellum-theme-documentation/support/)
 
 ## Contents
 
@@ -390,7 +390,9 @@ Custom code can complicate future upgrades. Record every modification and test c
 
 ## Getting support
 
-For help with Vellum, email [murungi.mutugi@gmail.com](mailto:murungi.mutugi@gmail.com) and include:
+For help with Vellum, [submit a support request](https://urban-canvas.github.io/vellum-theme-documentation/support/). The form collects the information and attachment needed to investigate your issue. Urban Canvas responds within two business days.
+
+Please include:
 
 - Your store's `.myshopify.com` domain.
 - The Vellum version shown at the top of this guide.
@@ -399,7 +401,9 @@ For help with Vellum, email [murungi.mutugi@gmail.com](mailto:murungi.mutugi@gma
 - Screenshots or a short screen recording where useful.
 - Whether custom code or a third-party app affects the page.
 
-Never send passwords, full payment details, customer exports, or private API credentials by email. Shopify platform, billing, checkout, and account issues may need to be handled by Shopify Support.
+Never send passwords, full payment details, customer exports, or private API credentials. Shopify platform, billing, checkout, and account issues may need to be handled by Shopify Support.
+
+If the form is unavailable, email [murungi.mutugi@gmail.com](mailto:murungi.mutugi@gmail.com).
 
 ---
 
