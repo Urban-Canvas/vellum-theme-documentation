@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Support Request Received
-description: Your Vellum support request has been sent to Urban Canvas.
+description: Your WordRipple support request has been sent to Urban Canvas.
 permalink: /support-success/
 ---
 
@@ -9,10 +9,10 @@ permalink: /support-success/
   <div class="support-success-mark" aria-hidden="true">✓</div>
   <p class="support-eyebrow">REQUEST RECEIVED</p>
   <h1>Thank you. We’ll be in touch.</h1>
-  <p>Your Vellum support request has been sent to Urban Canvas. You’ll receive an automatic acknowledgement by email, and our team will respond within two business days.</p>
+  <p>Your WordRipple support request has been sent to Urban Canvas. You’ll receive an automatic acknowledgement by email, and our team will respond within two business days.</p>
   <div class="support-success-actions">
-    <a class="support-button" href="https://urban-canvas.github.io/vellum-theme-documentation/">Read the documentation</a>
-    <a class="support-text-link" href="https://urban-canvas.github.io/vellum-theme-documentation/support/">Submit another request</a>
+    <a class="support-button" href="https://urban-canvas.github.io/wordripple-theme-documentation/">Read the documentation</a>
+    <a class="support-text-link" href="https://urban-canvas.github.io/wordripple-theme-documentation/support/">Submit another request</a>
   </div>
 </div>
 
@@ -20,4 +20,4 @@ If the acknowledgement does not arrive, check your spam folder and confirm the e
 
 ---
 
-© 2026 Urban Canvas. Vellum theme support.
+© 2026 Urban Canvas. WordRipple theme support.

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Vellum Theme Support
-description: Contact Urban Canvas for help with the Vellum Shopify theme.
+title: WordRipple Theme Support
+description: Contact Urban Canvas for help with the WordRipple Shopify theme.
 permalink: /support/
 ---
 
 <div class="support-hero">
   <p class="support-eyebrow">URBAN CANVAS · THEME SUPPORT</p>
-  <h1>How can we help with Vellum?</h1>
+  <h1>How can we help with WordRipple?</h1>
   <p>Tell us what is happening and include a screenshot or diagnostic file. We respond to support requests within two business days.</p>
 </div>
 
@@ -17,11 +17,11 @@ permalink: /support/
     <p class="support-intro">Fields marked <span aria-hidden="true">*</span> are required.</p>
 
     <form class="support-form" action="https://formsubmit.co/murungi.mutugi@gmail.com" method="POST" enctype="multipart/form-data">
-      <input type="hidden" name="_subject" value="Vellum theme support request">
+      <input type="hidden" name="_subject" value="WordRipple theme support request">
       <input type="hidden" name="_template" value="table">
-      <input type="hidden" name="_next" value="https://urban-canvas.github.io/vellum-theme-documentation/support-success/">
-      <input type="hidden" name="_autoresponse" value="Thank you for contacting Urban Canvas about the Vellum Shopify theme. We have received your request and will reply within two business days. Please keep this email for your records. For your security, never send passwords, payment details, customer exports, or API credentials.">
-      <input type="hidden" name="theme_name" value="Vellum">
+      <input type="hidden" name="_next" value="https://urban-canvas.github.io/wordripple-theme-documentation/support-success/">
+      <input type="hidden" name="_autoresponse" value="Thank you for contacting Urban Canvas about the WordRipple Shopify theme. We have received your request and will reply within two business days. Please keep this email for your records. For your security, never send passwords, payment details, customer exports, or API credentials.">
+      <input type="hidden" name="theme_name" value="WordRipple">
       <input class="support-honeypot" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
 
       <div class="support-field-row">
@@ -68,7 +68,7 @@ permalink: /support/
 
       <div class="support-field">
         <label for="problem">Description of the problem <span aria-hidden="true">*</span></label>
-        <textarea id="problem" name="problem_description" rows="8" minlength="20" placeholder="What did you expect to happen, what happened instead, and what steps reproduce the issue? Include your Vellum version and note any relevant apps or custom code." required></textarea>
+        <textarea id="problem" name="problem_description" rows="8" minlength="20" placeholder="What did you expect to happen, what happened instead, and what steps reproduce the issue? Include your WordRipple version and note any relevant apps or custom code." required></textarea>
       </div>
 
       <div class="support-field">
@@ -90,15 +90,15 @@ permalink: /support/
   <aside class="support-panel support-aside" aria-label="Support information">
     <h2>Before you submit</h2>
     <ol>
-      <li>Confirm the issue occurs in an unmodified copy of Vellum where practical.</li>
+      <li>Confirm the issue occurs in an unmodified copy of WordRipple where practical.</li>
       <li>Record the exact steps that reproduce it.</li>
       <li>Note any app, custom code, or recent store change involved.</li>
       <li>Attach a clear screenshot showing the full browser window.</li>
     </ol>
 
     <div class="support-note">
-      <strong>What Vellum support covers</strong>
-      <p>Theme setup, built-in features, reproducible theme defects, and general guidance for using Vellum.</p>
+      <strong>What WordRipple support covers</strong>
+      <p>Theme setup, built-in features, reproducible theme defects, and general guidance for using WordRipple.</p>
     </div>
 
     <div class="support-note">
@@ -106,10 +106,10 @@ permalink: /support/
       <p>Account access, billing, platform outages, checkout configuration, and Shopify-managed services should be directed to Shopify Support.</p>
     </div>
 
-    <p><a href="https://urban-canvas.github.io/vellum-theme-documentation/">← Return to Vellum documentation</a></p>
+    <p><a href="https://urban-canvas.github.io/wordripple-theme-documentation/">← Return to WordRipple documentation</a></p>
   </aside>
 </div>
 
 ---
 
-© 2026 Urban Canvas. Vellum theme support.
+© 2026 Urban Canvas. WordRipple theme support.

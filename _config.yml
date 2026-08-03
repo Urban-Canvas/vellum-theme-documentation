@@ -1,7 +1,7 @@
-title: Vellum Theme Documentation
-description: Installation, setup, customization, and support documentation for Vellum for Shopify.
+title: WordRipple Theme Documentation
+description: Installation, setup, customization, and support documentation for WordRipple for Shopify.
 url: https://urban-canvas.github.io
-baseurl: /vellum-theme-documentation
+baseurl: /wordripple-theme-documentation
 theme: jekyll-theme-cayman
 show_downloads: false
 markdown: kramdown

@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Vellum Theme Documentation
-description: Installation, setup, customization, and support documentation for Vellum for Shopify.
+title: WordRipple Theme Documentation
+description: Installation, setup, customization, and support documentation for WordRipple for Shopify.
 ---
 
-# Vellum Theme Documentation
+# WordRipple Theme Documentation
 
-Vellum is a warm, editorial Shopify theme designed for independent bookshops, publishers, and literary brands. This guide covers installation, store setup, customization, product enrichment, and ongoing maintenance.
+WordRipple is a warm, editorial Shopify theme designed for independent bookshops, publishers, and literary brands. This guide covers installation, store setup, customization, product enrichment, and ongoing maintenance.
 
 > **Theme version:** 1.0.1  
 > **Platform:** Shopify Online Store 2.0  
-> **Support:** [Submit a Vellum support request](https://urban-canvas.github.io/vellum-theme-documentation/support/)
+> **Support:** [Submit a WordRipple support request](https://urban-canvas.github.io/wordripple-theme-documentation/support/)
 
 ## Contents
 
 - [Before you begin](#before-you-begin)
-- [Install Vellum](#install-vellum)
+- [Install WordRipple](#install-wordripple)
 - [Quick-start setup](#quick-start-setup)
 - [Theme settings](#theme-settings)
 - [Header and navigation](#header-and-navigation)
@@ -44,15 +44,15 @@ For the smoothest setup, prepare the following before installing the theme:
 - Navigation menus for the header, mega menu, and footer.
 - Your store policies, contact details, and social links in Shopify.
 
-Vellum includes designed placeholders, so you can preview its layout before all store content is ready. Replace placeholders with real catalogue content before launch.
+WordRipple includes designed placeholders, so you can preview its layout before all store content is ready. Replace placeholders with real catalogue content before launch.
 
-## Install Vellum
+## Install WordRipple
 
 ### Upload a theme ZIP
 
 1. In Shopify admin, go to **Online Store → Themes**.
 2. In the **Theme library**, select **Add theme → Upload zip file**.
-3. Choose the Vellum theme ZIP and upload it.
+3. Choose the WordRipple theme ZIP and upload it.
 4. When processing completes, select **Customize** to configure the unpublished theme.
 5. Preview and test the theme before selecting **Publish**.
 
@@ -66,7 +66,7 @@ Uploading a new theme package creates a separate theme and does not automaticall
 
 Use this order to reach a launch-ready storefront efficiently:
 
-1. Upload Vellum and open the theme editor.
+1. Upload WordRipple and open the theme editor.
 2. Configure your logo, colors, typography, and preferred light/dark appearance.
 3. Build the header navigation and footer links.
 4. Create genre or category collections and assign products to them.
@@ -89,7 +89,7 @@ Open **Online Store → Themes → Customize**, then select **Theme settings**.
 | Favicon | Use a simple square PNG or ICO that remains legible at a small size. |
 | Social sharing image | Use a landscape image representing your shop for social link previews. |
 
-If no logo is uploaded, Vellum displays the store name as text.
+If no logo is uploaded, WordRipple displays the store name as text.
 
 ### Appearance
 
@@ -103,7 +103,7 @@ After choosing **Auto**, test both system modes to make sure uploaded logos and 
 
 ### Colors
 
-Vellum uses six coordinated color roles throughout the storefront:
+WordRipple uses six coordinated color roles throughout the storefront:
 
 | Setting | Used for |
 |---|---|
@@ -121,7 +121,7 @@ Check contrast after changing colors, particularly for accent-colored text, butt
 - **Heading font** controls the editorial display type used for prominent headings.
 - **Label/UI font** controls navigation, metadata, buttons, and interface text.
 
-Fonts are selected from Shopify's font library. Vellum also includes self-hosted serif and grotesk fallback fonts, ensuring the interface remains styled while selected fonts load.
+Fonts are selected from Shopify's font library. WordRipple also includes self-hosted serif and grotesk fallback fonts, ensuring the interface remains styled while selected fonts load.
 
 ## Header and navigation
 
@@ -143,18 +143,18 @@ The header also provides storefront search, account access when customer account
 
 1. In Shopify admin, go to **Content → Menus**.
 2. Create a menu and add its links.
-3. Return to the Vellum theme editor.
+3. Return to the WordRipple theme editor.
 4. Add or open a dropdown or mega-menu block, then connect the menu.
 
 Keep top-level labels short and avoid duplicating the same destination in several adjacent menu items.
 
 ## Homepage sections
 
-Vellum's homepage is built from reorderable Online Store 2.0 sections. Open the homepage in the theme editor to add, remove, hide, or rearrange sections.
+WordRipple's homepage is built from reorderable Online Store 2.0 sections. Open the homepage in the theme editor to add, remove, hide, or rearrange sections.
 
 ### Hero
 
-The editorial hero supports an eyebrow, heading, accented heading text, body copy, two calls to action, and a featured collection. Connect a collection with strong cover imagery; Vellum uses its products to create the floating-book composition.
+The editorial hero supports an eyebrow, heading, accented heading text, body copy, two calls to action, and a featured collection. Connect a collection with strong cover imagery; WordRipple uses its products to create the floating-book composition.
 
 ### Collection carousel
 
@@ -186,7 +186,7 @@ Configure the eyebrow, heading, and supporting text. Submissions use Shopify's c
 
 ## Products and book formats
 
-Vellum uses standard Shopify product data wherever possible:
+WordRipple uses standard Shopify product data wherever possible:
 
 | Book information | Shopify field |
 |---|---|
@@ -208,13 +208,13 @@ Vellum uses standard Shopify product data wherever possible:
 4. Set the price, compare-at price, SKU, inventory, weight, and shipping behavior for each variant.
 5. Add product media and save.
 
-When a product has multiple variants, Vellum displays its format selector. Products with one variant display a single price and purchase action.
+When a product has multiple variants, WordRipple displays its format selector. Products with one variant display a single price and purchase action.
 
 In the product template's **Product information** section, you can enable image zoom, show or hide the audio preview, and enter a fallback audio duration label.
 
 ## Optional product metafields
 
-Vellum can enrich product pages with an audio sample, a review, and an author biography. Create these definitions in **Settings → Custom data → Products → Add definition**. Use the namespace and key shown below exactly.
+WordRipple can enrich product pages with an audio sample, a review, and an author biography. Create these definitions in **Settings → Custom data → Products → Add definition**. Use the namespace and key shown below exactly.
 
 | Name | Namespace and key | Recommended type | Purpose |
 |---|---|---|---|
@@ -234,13 +234,13 @@ For the audio player, enable **Show audio preview** in the product template. Hos
 
 ### Collections
 
-Create automated collections using product tags, product types, vendors, or other catalogue rules. Assign each collection a title, description, and image, then connect it to the appropriate Vellum section.
+Create automated collections using product tags, product types, vendors, or other catalogue rules. Assign each collection a title, description, and image, then connect it to the appropriate WordRipple section.
 
 Collection pages include product cards, responsive layout, pagination, and Shopify-compatible filtering and sorting where configured. Manage storefront filters with Shopify's Search & Discovery app.
 
 ### Search
 
-Vellum includes a search overlay, predictive product suggestions, and a full search-results page. Search quality depends on clear product titles, author/vendor data, descriptions, tags, and consistent identifiers.
+WordRipple includes a search overlay, predictive product suggestions, and a full search-results page. Search quality depends on clear product titles, author/vendor data, descriptions, tags, and consistent identifiers.
 
 After changing catalogue data, test searches for titles, authors, genres, and common customer terms.
 
@@ -255,7 +255,7 @@ To assign a template, open the relevant page in Shopify admin and select it from
 
 ## Cart and checkout
 
-Vellum includes an AJAX cart drawer and a dedicated cart page. Customers can add products without a full-page refresh, change quantities, remove items, and proceed to Shopify Checkout.
+WordRipple includes an AJAX cart drawer and a dedicated cart page. Customers can add products without a full-page refresh, change quantities, remove items, and proceed to Shopify Checkout.
 
 Before launch, test:
 
@@ -269,13 +269,13 @@ Checkout branding and behavior are managed separately in Shopify admin and may d
 
 ## Languages and markets
 
-Vellum includes English and German storefront translations and matching theme-editor translations. When more than one published language or country/region is available, the storefront can display localization controls.
+WordRipple includes English and German storefront translations and matching theme-editor translations. When more than one published language or country/region is available, the storefront can display localization controls.
 
 Use **Settings → Languages** to add and publish languages, and **Settings → Markets** to configure countries, currencies, domains, and language availability. Review every translation before launch, including navigation labels, product content, policies, email notifications, and checkout text.
 
 ## Search engine optimization
 
-Vellum provides technical foundations including canonical URLs, metadata output, Open Graph and social metadata, and JSON-LD structured data. Merchants remain responsible for content quality.
+WordRipple provides technical foundations including canonical URLs, metadata output, Open Graph and social metadata, and JSON-LD structured data. Merchants remain responsible for content quality.
 
 For every important resource:
 
@@ -290,7 +290,7 @@ SEO changes can take time to be recrawled and do not guarantee a particular rank
 
 ## Accessibility and content guidance
 
-Vellum includes keyboard focus treatments, semantic landmarks, accessible disclosures, form labels, and a skip-to-content link. Preserve that foundation when adding content:
+WordRipple includes keyboard focus treatments, semantic landmarks, accessible disclosures, form labels, and a skip-to-content link. Preserve that foundation when adding content:
 
 - Use descriptive link and button labels instead of “click here.”
 - Provide alternative text that communicates the purpose of meaningful images.
@@ -347,7 +347,7 @@ Make sure you edited the intended theme and selected **Save**. Preview the theme
 
 ## Developer workflow
 
-Code customization is optional and should be performed on a duplicate theme. Vellum uses Liquid, JSON templates, JavaScript, and Tailwind CSS v4.
+Code customization is optional and should be performed on a duplicate theme. WordRipple uses Liquid, JSON templates, JavaScript, and Tailwind CSS v4.
 
 Prerequisites:
 
@@ -390,12 +390,12 @@ Custom code can complicate future upgrades. Record every modification and test c
 
 ## Getting support
 
-For help with Vellum, [submit a support request](https://urban-canvas.github.io/vellum-theme-documentation/support/). The form collects the information and attachment needed to investigate your issue. Urban Canvas responds within two business days.
+For help with WordRipple, [submit a support request](https://urban-canvas.github.io/wordripple-theme-documentation/support/). The form collects the information and attachment needed to investigate your issue. Urban Canvas responds within two business days.
 
 Please include:
 
 - Your store's `.myshopify.com` domain.
-- The Vellum version shown at the top of this guide.
+- The WordRipple version shown at the top of this guide.
 - A concise description of the expected and actual behavior.
 - The affected page URL and steps to reproduce the issue.
 - Screenshots or a short screen recording where useful.
@@ -407,4 +407,4 @@ If the form is unavailable, email [murungi.mutugi@gmail.com](mailto:murungi.mutu
 
 ---
 
-© 2026 Urban Canvas. Vellum theme documentation.
+© 2026 Urban Canvas. WordRipple theme documentation.
